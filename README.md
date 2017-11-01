@@ -1,5 +1,5 @@
-# Weather Forcast Application
-Simple weather forcast application in React.
+# Weather Forecast Application
+Simple weather forecast application in React.
 
 # Launch @localhost:8080
 ```
